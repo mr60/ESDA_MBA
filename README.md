@@ -4,10 +4,10 @@ Mayra Rodriguez - PhD Candidate
 QUEX INSTITUTE - CWS, University of Exeter
 2021
 
+![Methodology](https://user-images.githubusercontent.com/48441144/118828544-4455d800-b8b5-11eb-9944-9f7f9eb13d35.jpg)
 
-![Methodology](https://user-images.githubusercontent.com/48441144/116571765-486c8680-a903-11eb-9cfe-8ffe9a7c2755.png)
-
-
+Code used for the paper:
+"Exploring spatial impacts of green infrastructures in the resilience on urban drainage systems" Rodriguez et al. 2021. 
 
 <b>Dependencies</b>
 
